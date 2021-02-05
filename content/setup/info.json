@@ -5,6 +5,12 @@
   "showmenu": true,
   "emailsignup": true,
   "altlayout": true,
-  "menu": [],
+  "menu": [
+    {
+      "name": "Yes",
+      "position": "1",
+      "link": "#"
+    }
+  ],
   "linkcolor": "#d20d10"
 }
